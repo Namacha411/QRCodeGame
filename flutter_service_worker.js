@@ -14,13 +14,13 @@ const RESOURCES = {
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"assets/NOTICES": "5ca2dc05eb866125a6c7d952469f0058",
+"assets/NOTICES": "f357782e3ee4cbfdf2950eada84c3109",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"index.html": "1de0c6ae0e2b06a697e0e65db1471b52",
-"/": "1de0c6ae0e2b06a697e0e65db1471b52",
+"index.html": "6c33db93d18d9a85e1456ee9b3fae618",
+"/": "6c33db93d18d9a85e1456ee9b3fae618",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796"
 };
 
